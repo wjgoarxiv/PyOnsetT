@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+ruptures
+tabulate
+pyfiglet
+argparse

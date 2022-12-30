@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: PyOnsetT
+Version: 1.0.6
+Summary: ::A simple onset temperature extractor for gas hydrate researchers::
+Home-page: https://pypi.org/project/PyOnsetT/
+Author: wjgoarxiv
+Author-email: woo_go@yahoo.com
+License: MIT
+Requires-Python: >=3.8
+
+Revised some minor errors...

@@ -1,0 +1,10 @@
+README.md
+setup.py
+PyOnsetT/PyOnsetT.py
+PyOnsetT/__init__.py
+PyOnsetT.egg-info/PKG-INFO
+PyOnsetT.egg-info/SOURCES.txt
+PyOnsetT.egg-info/dependency_links.txt
+PyOnsetT.egg-info/entry_points.txt
+PyOnsetT.egg-info/requires.txt
+PyOnsetT.egg-info/top_level.txt
