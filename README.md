@@ -1,6 +1,6 @@
 # **PyOnsetT**
 ::**Py**thon-based **Onset** **T**emperature extractor::
-![PyOnsetT LOGO](./LOGO.png =100x66
+![PyOnsetT LOGO](./LOGO.png =100x66)
 
 ## **Introduction**
 **PyOnsetT** is an invaluable tool for obtaining accurate and reliable onset temperatures from raw pressure and temperature data. With this package, users can measure onset temperatures with greater precision and accuracy than ever before. Additionally, the package is designed to be cross-platform, meaning that it can be used with a variety of data acquisition apparatuses, such as high-pressure autoclave, high-pressure rocking cell, and high-pressure micro-differential scanning calorimeter. For gas hydrate researchers, PyOnsetT provides a convenient and user-friendly interface for accurately measuring the onset temperature of gas hydrate samples.
