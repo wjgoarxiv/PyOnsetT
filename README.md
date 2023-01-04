@@ -54,6 +54,24 @@ PyOnsetT will generate a zip folder named `[file_name].zip` containing the follo
 - `PLOT2_P&T-time_with_change_points.png`: A plot of the pressure and temperature over time with the change points marked
 - `PLOT3_Exact_onset_temperatures_with_the_change_point.png`: A plot of the exact onset temperatures with the change points marked (enlarged)
 
+## **Gallery** 
+Here are output examples (you can also check this in the Examples/ folder).
+
+### 1. `PLOT1_P&T-time.png`
+![PLOT1_P&T-time](./Examples/Example1_results/PLOT1_P&T-time.png)
+### 2. `PLOT2_P&T-time_with_change_points.png`
+![PLOT2_P&T-time_with_change_points](./Examples/Example1_results/PLOT2_P&T-time_with_change_points.png)
+### 3. `PLOT3_Exact_onset_temperature_with_the_change_point.png`
+![PLOT3](./Examples/Example1_results/PLOT3_Exact_onset_temperatures_with_the_change_point.png)
+### 4. `DATA1_obtained+onset+temperatures.csv`
+| onsetT (℃) | onsetT (K) |	onsetT_time (min) |
+| - | - | - |
+| 2.47 | 275.62 |	603.0 |
+| 2.45 | 275.60	| 2109.0 |
+| 2.52 |	275.67 |	3596.0 |
+| 1.7 |	274.85 |	5135.0 |
+| 2.3 |	275.45 |	6593.0 |
+
 ## **Features**
 - Extracts onset temperatures from a given data file
 - Easily downloadable via pip
