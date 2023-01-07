@@ -1,6 +1,7 @@
 # **PyOnsetT**
 ::**Py**thon-based **Onset** **T**emperature extractor::
-![PyOnsetT LOGO](./LOGO.png)
+
+<img src="./LOGO.png" height="70%" width="70%" style="margin-left: auto; margin-right: auto; display: block;"/>
 
 <br> 
 
@@ -58,11 +59,14 @@ PyOnsetT will generate a zip folder named `[file_name].zip` containing the follo
 Here are output examples (you can also check this in the Examples/ folder).
 
 ### 1. `PLOT1_P&T-time.png`
-![PLOT1_P&T-time](./Examples/Example1_results/PLOT1_P&T-time.png)
+<img src="./Examples/Example1_results/PLOT1_P&T-time.png" width="60%" height="60%"/>
+
 ### 2. `PLOT2_P&T-time_with_change_points.png`
 ![PLOT2_P&T-time_with_change_points](./Examples/Example1_results/PLOT2_P&T-time_with_change_points.png)
+
 ### 3. `PLOT3_Exact_onset_temperature_with_the_change_point.png`
 ![PLOT3](./Examples/Example1_results/PLOT3_Exact_onset_temperatures_with_the_change_point.png)
+
 ### 4. `DATA1_obtained+onset+temperatures.csv`
 | onsetT (℃) | onsetT (K) |	onsetT_time (min) |
 | - | - | - |
